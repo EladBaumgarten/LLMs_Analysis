@@ -1,0 +1,15 @@
+﻿author,scheme,variant,combined,n_feats,funcwords,punct,phraseology
+ahad_haam,terciles,fix,0.648,67,0.603,0.576,0.547
+ahad_haam,terciles,drop2,0.665,65,0.603,0.576,0.558
+ahad_haam,year_terciles,fix,0.65,67,0.614,0.554,0.575
+ahad_haam,year_terciles,drop2,0.663,65,0.614,0.554,0.578
+ahad_haam,split,fix,0.795,67,0.813,0.719,0.678
+ahad_haam,split,drop2,0.797,65,0.813,0.719,0.695
+alterman,terciles,fix,0.567,67,0.463,0.439,0.565
+alterman,terciles,drop2,0.531,65,0.463,0.439,0.521
+alterman,year_terciles,fix,0.554,67,0.437,0.439,0.542
+alterman,year_terciles,drop2,0.523,65,0.437,0.439,0.484
+alterman,split,fix,0.89,67,0.88,0.807,0.849
+alterman,split,drop2,0.895,65,0.88,0.807,0.842
+alterman,late_terciles,fix,0.534,67,0.462,0.43,0.594
+alterman,late_terciles,drop2,0.499,65,0.462,0.43,0.446

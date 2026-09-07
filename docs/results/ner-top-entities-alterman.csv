@@ -1,0 +1,121 @@
+﻿author,period,label,rank,entity,mentions
+alterman,post-1948,PER,1,בונטה,197
+alterman,post-1948,PER,2,קיפודי,150
+alterman,post-1948,PER,3,מלקוש,77
+alterman,post-1948,PER,4,פונצ'יק,59
+alterman,post-1948,PER,5,בורסי,50
+alterman,post-1948,PER,6,גולדה מאיר,50
+alterman,post-1948,PER,7,מיקס,48
+alterman,post-1948,PER,8,בן־גוריון,46
+alterman,post-1948,PER,9,מילקו,35
+alterman,post-1948,PER,10,קורצווייל,33
+alterman,post-1948,PER,11,חוסיין,33
+alterman,post-1948,PER,12,חיים,29
+alterman,post-1948,PER,13,פנחס ספיר,29
+alterman,post-1948,PER,14,גמזו,26
+alterman,post-1948,PER,15,טלמון,22
+alterman,post-1948,GPE,1,ישראל,543
+alterman,post-1948,GPE,2,בישראל,117
+alterman,post-1948,GPE,3,לישראל,51
+alterman,post-1948,GPE,4,ירושלים,41
+alterman,post-1948,GPE,5,בירושלים,38
+alterman,post-1948,GPE,6,גרמניה,37
+alterman,post-1948,GPE,7,בגרמניה,35
+alterman,post-1948,GPE,8,מדינת ישראל,23
+alterman,post-1948,GPE,9,ברית-המועצות,21
+alterman,post-1948,GPE,10,ירדן,21
+alterman,post-1948,GPE,11,הארץ,20
+alterman,post-1948,GPE,12,פראג,19
+alterman,post-1948,GPE,13,לגרמניה,19
+alterman,post-1948,GPE,14,מישראל,18
+alterman,post-1948,GPE,15,חברון,14
+alterman,post-1948,LOC,1,ארץ־ישראל,57
+alterman,post-1948,LOC,2,השטחים,55
+alterman,post-1948,LOC,3,ארץ-ישראל,44
+alterman,post-1948,LOC,4,הגדה המערבית,37
+alterman,post-1948,LOC,5,ארץ,23
+alterman,post-1948,LOC,6,ישראל,21
+alterman,post-1948,LOC,7,יהודה והשומרון,20
+alterman,post-1948,LOC,8,אירופה,18
+alterman,post-1948,LOC,9,בארץ־ישראל,18
+alterman,post-1948,LOC,10,בשטחים,18
+alterman,post-1948,LOC,11,הגדה,17
+alterman,post-1948,LOC,12,בארץ-ישראל,14
+alterman,post-1948,LOC,13,הירדן,12
+alterman,post-1948,LOC,14,ערב,12
+alterman,post-1948,LOC,15,ציון,11
+alterman,post-1948,ORG,1,"צה""ל",56
+alterman,post-1948,ORG,2,החוץ,52
+alterman,post-1948,ORG,3,"מפ""ם",42
+alterman,post-1948,ORG,4,המערך,37
+alterman,post-1948,ORG,5,"מפא""י",33
+alterman,post-1948,ORG,6,בכנסת,27
+alterman,post-1948,ORG,7,משרד-החוץ,27
+alterman,post-1948,ORG,8,הבטחון,25
+alterman,post-1948,ORG,9,ממשלת ישראל,23
+alterman,post-1948,ORG,10,הכנסת,23
+alterman,post-1948,ORG,11,העבודה,22
+alterman,post-1948,ORG,12,מעריב,21
+alterman,post-1948,ORG,13,ההסתדרות הציונית,15
+alterman,post-1948,ORG,14,מועצת-הבטחון,15
+alterman,post-1948,ORG,15,מועצת־הבטחון,15
+alterman,pre-1948,PER,1,מוד,12
+alterman,pre-1948,PER,2,סער,7
+alterman,pre-1948,PER,3,שלונסקי,6
+alterman,pre-1948,PER,4,ניומן,6
+alterman,pre-1948,PER,5,ופרץ,6
+alterman,pre-1948,PER,6,משה ליפשיץ,5
+alterman,pre-1948,PER,7,היטלר,4
+alterman,pre-1948,PER,8,ליסיצקי,4
+alterman,pre-1948,PER,9,נירקה,4
+alterman,pre-1948,PER,10,אביבה,3
+alterman,pre-1948,PER,11,קיסר,3
+alterman,pre-1948,PER,12,שקספיר,3
+alterman,pre-1948,PER,13,לשקספיר,2
+alterman,pre-1948,PER,14,יוליוס קיסר,2
+alterman,pre-1948,PER,15,ברוטוס,2
+alterman,pre-1948,GPE,1,תל־אביב,10
+alterman,pre-1948,GPE,2,חיפה,6
+alterman,pre-1948,GPE,3,צרפת,6
+alterman,pre-1948,GPE,4,בגרמניה,5
+alterman,pre-1948,GPE,5,סין,5
+alterman,pre-1948,GPE,6,הארץ,3
+alterman,pre-1948,GPE,7,"א""י",3
+alterman,pre-1948,GPE,8,הודו,3
+alterman,pre-1948,GPE,9,גרינלאנד,3
+alterman,pre-1948,GPE,10,טבריה,3
+alterman,pre-1948,GPE,11,ירושלים,2
+alterman,pre-1948,GPE,12,ישראל,2
+alterman,pre-1948,GPE,13,"לארה""ב",2
+alterman,pre-1948,GPE,14,בצרפת,2
+alterman,pre-1948,GPE,15,פאריס,2
+alterman,pre-1948,LOC,1,הכנרת,5
+alterman,pre-1948,LOC,2,הירדן,5
+alterman,pre-1948,LOC,3,הכרמל,2
+alterman,pre-1948,LOC,4,כדור־הארץ,2
+alterman,pre-1948,LOC,5,אירופה,2
+alterman,pre-1948,LOC,6,בערבה,2
+alterman,pre-1948,LOC,7,בעמק הירדן,2
+alterman,pre-1948,LOC,8,מעמק הירדן,2
+alterman,pre-1948,LOC,9,צור,1
+alterman,pre-1948,LOC,10,הפארנאס,1
+alterman,pre-1948,LOC,11,מהר הכרמל,1
+alterman,pre-1948,LOC,12,אי הלנה,1
+alterman,pre-1948,LOC,13,שבשדות,1
+alterman,pre-1948,LOC,14,השרון,1
+alterman,pre-1948,LOC,15,כוכב,1
+alterman,pre-1948,ORG,1,שטיבל,2
+alterman,pre-1948,ORG,2,דגניה ב',1
+alterman,pre-1948,ORG,3,המארסלייזה,1
+alterman,pre-1948,ORG,4,המשטר הנאצי,1
+alterman,pre-1948,ORG,5,מיניסטריון־,1
+alterman,pre-1948,ORG,6,הקאבינט האנגלי,1
+alterman,pre-1948,ORG,7,בשדה,1
+alterman,pre-1948,ORG,8,הוצאת שטיבל,1
+alterman,pre-1948,ORG,9,המטרו,1
+alterman,pre-1948,ORG,10,בווינסן,1
+alterman,pre-1948,ORG,11,הסינמה,1
+alterman,pre-1948,ORG,12,פרמונט,1
+alterman,pre-1948,ORG,13,שקאמבודז',1
+alterman,pre-1948,ORG,14,חברת סואץ,1
+alterman,pre-1948,ORG,15,מפעל רוטנברג,1

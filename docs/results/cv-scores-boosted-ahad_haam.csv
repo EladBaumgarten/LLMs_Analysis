@@ -1,0 +1,17 @@
+﻿author,scheme,variant,features,model,n_feats,bal_acc,bal_sd,f1_macro
+ahad_haam,terciles,fix,funcwords,lgbm,50,0.535,0.06,0.532
+ahad_haam,terciles,fix,pos,lgbm,179,0.463,0.051,0.458
+ahad_haam,terciles,fix,dependency,lgbm,218,0.509,0.065,0.504
+ahad_haam,terciles,fix,morphology,lgbm,13,0.402,0.047,0.4
+ahad_haam,terciles,fix,punctuation,lgbm,17,0.524,0.081,0.511
+ahad_haam,terciles,fix,phraseology,lgbm,4,0.378,0.036,0.377
+ahad_haam,terciles,fix,combined,lgbm,481,0.628,0.068,0.619
+ahad_haam,terciles,fix,combined,dummy,481,0.333,0.0,0.18
+ahad_haam,year_terciles,fix,funcwords,lgbm,50,0.511,0.038,0.507
+ahad_haam,year_terciles,fix,pos,lgbm,179,0.458,0.04,0.452
+ahad_haam,year_terciles,fix,dependency,lgbm,218,0.52,0.048,0.513
+ahad_haam,year_terciles,fix,morphology,lgbm,13,0.394,0.053,0.393
+ahad_haam,year_terciles,fix,punctuation,lgbm,17,0.497,0.073,0.486
+ahad_haam,year_terciles,fix,phraseology,lgbm,4,0.387,0.027,0.385
+ahad_haam,year_terciles,fix,combined,lgbm,481,0.584,0.067,0.572
+ahad_haam,year_terciles,fix,combined,dummy,481,0.333,0.0,0.165

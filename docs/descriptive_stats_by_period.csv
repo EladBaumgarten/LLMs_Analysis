@@ -1,0 +1,7 @@
+﻿author,period,years,articles,tokens,mean_sent_len,median_sent_len,punct_%,funcword_%,func_content_ratio,unique_lemmas,mean_text_ttr
+Ahad Ha'am,early,1889-1895,29,115110,32.9,27,17.3,22.8,0.389,5138,0.406
+Ahad Ha'am,middle,1897-1902,30,115380,34.5,29,17.7,23.1,0.402,4908,0.446
+Ahad Ha'am,late,1903-1928,37,115593,28.0,23,19.1,22.5,0.395,5133,0.466
+Alterman,early,1931-1967,64,108897,22.3,18,17.8,22.8,0.393,7766,0.574
+Alterman,middle,1968-1968,42,98132,18.9,13,17.9,23.5,0.408,6720,0.538
+Alterman,late,1969-1970,68,76920,30.6,26,16.4,24.6,0.425,5781,0.617

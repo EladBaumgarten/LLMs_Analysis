@@ -1,0 +1,3 @@
+﻿author,articles,tokens,mean_sent_len,median_sent_len,punct_%,funcword_%,func_content_ratio,unique_lemmas,mean_text_ttr
+Ahad Ha'am,131,448989,31.4,26,18.0,22.7,0.395,8438,0.464
+Alterman,174,283949,22.6,17,17.5,23.5,0.407,10640,0.582

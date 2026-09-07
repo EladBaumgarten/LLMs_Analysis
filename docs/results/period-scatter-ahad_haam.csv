@@ -1,0 +1,2 @@
+﻿author,N,F,eta2,silhouette,snr,within_rms,between_mean,between_early-middle,between_early-late,between_middle-late,within_early,within_middle,within_late,snr_funcwords,snr_pos,snr_dependency,snr_morphology,snr_punctuation,snr_phraseology
+ahad_haam,820,481,0.015,0.004,0.213,0.992,0.211,0.199,0.269,0.165,0.983,0.995,1.0,0.242,0.175,0.202,0.287,0.421,0.337

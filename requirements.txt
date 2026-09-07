@@ -1,0 +1,34 @@
+# Versions this project was actually run with (Python 3.11.15).
+# Install:  pip install -r requirements.txt
+
+pandas==3.0.3
+numpy==2.4.6
+scikit-learn==1.9.0
+scipy==1.17.1
+matplotlib==3.11.0
+
+# Stage G: boosted trees + interpretation
+lightgbm==4.7.0
+shap==0.51.0
+
+# Stage H: topic modelling
+gensim==4.4.0
+
+# Stages C, I, J: Dicta, GPT-Neo, HeBERT, DictaLM
+transformers==5.14.1
+torch==2.5.1
+# The run used the CUDA 12.1 build (torch 2.5.1+cu121). For GPU, install torch from
+# https://pytorch.org/get-started/locally/ instead of from this file; CPU-only works for
+# everything except stages C and I.
+
+# Corpus build and I/O
+requests==2.34.2
+python-dotenv==1.2.2
+openpyxl==3.1.5
+tqdm==4.68.4
+
+# Colab only, for stylometry/perplexity_alm_colab.py and stylometry/sentiment_llm_colab.py.
+# Not needed for any local stage:
+#   datasets
+#   accelerate
+#   bitsandbytes

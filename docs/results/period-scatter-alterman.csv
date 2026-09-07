@@ -1,0 +1,2 @@
+﻿author,N,F,eta2,silhouette,snr,within_rms,between_mean,between_early-middle,between_early-late,between_middle-late,within_early,within_middle,within_late,snr_funcwords,snr_pos,snr_dependency,snr_morphology,snr_punctuation,snr_phraseology
+alterman,682,467,0.014,-0.006,0.216,0.993,0.214,0.191,0.235,0.217,1.011,0.997,0.955,0.187,0.201,0.212,0.298,0.304,0.48

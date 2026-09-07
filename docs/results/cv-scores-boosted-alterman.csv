@@ -1,0 +1,17 @@
+﻿author,scheme,variant,features,model,n_feats,bal_acc,bal_sd,f1_macro
+alterman,terciles,fix,funcwords,lgbm,50,0.427,0.072,0.423
+alterman,terciles,fix,pos,lgbm,174,0.431,0.083,0.428
+alterman,terciles,fix,dependency,lgbm,211,0.428,0.117,0.421
+alterman,terciles,fix,morphology,lgbm,14,0.356,0.068,0.342
+alterman,terciles,fix,punctuation,lgbm,14,0.48,0.089,0.462
+alterman,terciles,fix,phraseology,lgbm,4,0.391,0.032,0.383
+alterman,terciles,fix,combined,lgbm,467,0.456,0.131,0.448
+alterman,terciles,fix,combined,dummy,467,0.333,0.0,0.199
+alterman,year_terciles,fix,funcwords,lgbm,50,0.435,0.027,0.421
+alterman,year_terciles,fix,pos,lgbm,174,0.459,0.067,0.446
+alterman,year_terciles,fix,dependency,lgbm,211,0.463,0.052,0.449
+alterman,year_terciles,fix,morphology,lgbm,14,0.384,0.059,0.373
+alterman,year_terciles,fix,punctuation,lgbm,14,0.452,0.087,0.439
+alterman,year_terciles,fix,phraseology,lgbm,4,0.404,0.038,0.39
+alterman,year_terciles,fix,combined,lgbm,467,0.507,0.046,0.489
+alterman,year_terciles,fix,combined,dummy,467,0.333,0.0,0.185

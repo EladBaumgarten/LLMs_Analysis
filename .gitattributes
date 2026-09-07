@@ -1,0 +1,11 @@
+# Store every text file with LF inside the repo, whatever the machine that committed it uses.
+# Windows checkouts still get CRLF in the working tree; this only fixes what git stores, so a
+# later contributor on Linux or macOS cannot reintroduce mixed line endings.
+* text=auto
+
+# Never convert or line-diff these.
+*.png   binary
+*.pdf   binary
+*.docx  binary
+*.xlsx  binary
+*.pptx  binary
